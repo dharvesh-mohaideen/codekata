@@ -1,6 +1,5 @@
-num=int(input())
-mod=num%2
-if mod>0:
-    print("Odd")
+a=int(raw_input())
+if(0==(a%2)):
+   print("Even")
 else:
-    print("Even")
+   print("Odd") 
