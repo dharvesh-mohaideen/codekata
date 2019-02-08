@@ -1,6 +1,6 @@
-num=int(input("enter a number"))
+num=int(input())
 mod=num%2
 if mod>0:
-    print("ODD")
+    print("Odd")
 else:
-    print("EVEN")
+    print("Even")
